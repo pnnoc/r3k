@@ -1,8 +1,0 @@
-numpy
-awkward
-uproot
-scikit-learn
-xgboost
-tqdm
-matplotlib
-pyyaml
